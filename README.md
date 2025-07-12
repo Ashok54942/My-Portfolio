@@ -6,7 +6,7 @@ Welcome to my personal portfolio! This is a responsive and modern web-based port
 
 ## 🚀 Live Preview
 
-👉 [Click Here to View the Portfolio](https://your-deployment-link.com)  
+👉 [Click Here to View the Portfolio](https://ashok54942.github.io/My-Portfolio/)  
 *(Replace with your actual portfolio URL)*
 
 ## ✨ Features
