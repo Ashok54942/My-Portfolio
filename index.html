@@ -717,13 +717,13 @@ and building responsive web projects.
 <script src="https://cdn.jsdelivr.net/npm/emailjs-com@3/dist/email.min.js"></script>
 <script>
   (function() {
-    emailjs.init("UAUkOxtw11pTsHuSx"); // ✅ Replace with your EmailJS Public Key
+    emailjs.init(""); // ✅ Replace with your EmailJS Public Key
   })();
 
   document.getElementById("contact-form").addEventListener("submit", function(e) {
     e.preventDefault();
 
-    emailjs.sendForm("service_4n8uyn7", "template_rs4w3ol", this)
+    emailjs.sendForm("service id", "template id", this)
       .then(() => {
         alert("Message sent successfully!");
         this.reset();
