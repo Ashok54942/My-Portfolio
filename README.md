@@ -12,7 +12,7 @@ Welcome to my personal portfolio! This is a responsive and modern web-based port
 ## ✨ Features
 
 - Fully responsive design
-- Hero section with animated intro
+- Home section with animated intro
 - About Me section with image & bio
 - Projects showcase with descriptions and GitHub links
 - Skills & tools section with badges/icons
